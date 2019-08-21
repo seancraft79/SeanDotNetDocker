@@ -33,5 +33,6 @@ namespace SeanDotNetDocker
                     logging.ClearProviders();
                     logging.AddDebug();
                 });
+                
     }
 }
